@@ -3,3 +3,6 @@ tgcrypto
 aiofiles
 motor
 dnspython
+requests
+selenium
+python-dotenv
